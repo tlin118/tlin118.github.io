@@ -1,7 +1,7 @@
 baseURL = 'https://tlin118.github.io/'
 languageCode = 'en-us'
 title = 'Lin'
-theme = "hugo-blog-awesome"
+theme = ["hugo-admonitions", "hugo-blog-awesome"]
 
 # This defines how dates are formatted
 defaultContentLanguage = "en-gb"
